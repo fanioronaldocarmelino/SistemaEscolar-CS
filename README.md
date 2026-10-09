@@ -17,8 +17,7 @@ Aplicação desktop completa para linux para gestão de alunos
 - **Banco de Dados:** SQLite (`Mono.Data.Sqlite`).
 
 ## Para compilar:
-mcs WinForm.cs banco.cs AlunoService.cs Alunos.cs PesquisarAluno_Form.cs CadastrarAluno_Form.cs ActualizarAluno_Form.cs ExcluirAluno_Form.cs -r:System.Windows.Forms.dll -r:System.Drawing.dll -r:System.Data -r:Mono.Data.Sqlite (in directory: /home/fanio/Music/Start to C#/Exercicios do Chat/Pasta Criada/Sistema Escolar C#)
-
+mcs WinForm.cs banco.cs AlunoService.cs Alunos.cs PesquisarAluno_Form.cs CadastrarAluno_Form.cs ActualizarAluno_Form.cs ExcluirAluno_Form.cs -r:System.Windows.Forms.dll -r:System.Drawing.dll -r:System.Data -r:Mono.Data.Sqlite
 
 ## Outras informaçãoes:
 -**Autor:** Fânio Carmelino.
