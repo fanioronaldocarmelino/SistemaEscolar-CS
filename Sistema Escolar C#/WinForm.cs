@@ -1,3 +1,9 @@
+/*						INFO
+ * 
+ * Sistema de Getão Escolar
+ * Autor: Fânio Carmelino
+*/
+
 using System;
 using System.Collections.Generic;
 using System.Drawing;
