@@ -20,9 +20,9 @@ Aplicação desktop completa para linux para gestão de alunos
 mcs WinForm.cs banco.cs AlunoService.cs Alunos.cs PesquisarAluno_Form.cs CadastrarAluno_Form.cs ActualizarAluno_Form.cs ExcluirAluno_Form.cs -r:System.Windows.Forms.dll -r:System.Drawing.dll -r:System.Data -r:Mono.Data.Sqlite
 
 ## Instalação de SQLite para Linux:
-sudo apt update.
-sudo apt install mono-complete sqlite3 libsqlite3-dev.
-sudo apt install libmono-sqlite4.0-cil.
+`sudo apt update`
+`sudo apt install mono-complete sqlite3 libsqlite3-dev`
+`sudo apt install libmono-sqlite4.0-cil`
 
 ## Outras informaçãoes:
 -**Autor:** Fânio Carmelino.
